@@ -139,7 +139,7 @@ section {
 
 .item > button:hover, 
 .item > button:focus {
-    color: red;
+    color: black;
 }
 
 @media (min-width: 768px) {
